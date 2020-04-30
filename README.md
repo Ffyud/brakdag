@@ -7,13 +7,11 @@
 
 ### Online news
 * Groninger Internet Courant - The most popular news website for the city.
-* SIKKOM - Focussed primarly on things young people like.
-* The Northern Times - News for the English speaking population.
+* SIKKOM - Focused primarly on things young people like.
 * Stadblog Clickt
 * Filter Groningen
 * Dat is Groningen
 * STAD magazine
-* Stadsgoud
 * Focus Groningen - Run by one journalist who writes interesting articles.
 * GroningerKrant - Comparable to Focus Groningen, also run by one person.
 * JouwStad
@@ -33,18 +31,15 @@
 * Hanze Magazine - Independent newspaper run by students for the Hanze Hogeschool.
 
 ### Economy
-* Horeca Groningen - News for the hospitality sector of the city.
+* Horeca Groningen - News for the hospitality sector.
 * GROC - Articles primarily targeted at entrepeneurs.
 * Onderzoek & Statistiek Groningen - Conducts and publishes city research.
-* Samenwerking Noord - A (IT) networking organization.
+* Samenwerking Noord - An IT-networking organization.
 
 ### Local government
-* Groningen Bereikbaar - To inform about all the road construction that is being done.
+* Groningen Bereikbaar - To inform about all the city construction that is being done.
 * Groningen Fietsstad
-* Gemeente Groningen - News published by the municapility
-* City of Talent - News highlighting talents and start-ups that Groningen produces
-* Groningen Spoorzone - To inform about rail construction, in particular at the central station
-* Campus Groningen - News about the Zernike Campus that houses most University and Hanze facilities
-
-### Emergencies
-* 112Groningen - Incidents and emergencies typically are publish here in fairly great detail.
+* Gemeente Groningen - News published by the municipality,
+* City of Talent - News highlighting talents and start-ups that Groningen produces.
+* Groningen Spoorzone - To inform about rail construction, in particular at the central station.
+* Campus Groningen - News about the Zernike Campus that houses most University and Hanze facilities.

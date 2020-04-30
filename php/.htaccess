@@ -1,0 +1,4 @@
+<Files "brakdag-functions.php">
+Order Allow,Deny
+Deny from all
+</Files>

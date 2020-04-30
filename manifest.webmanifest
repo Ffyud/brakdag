@@ -1,0 +1,23 @@
+{
+  "short_name": "Brakdag",
+  "name": "Brakdag",
+  "icons": [
+    {
+      "src": "img/brakdag-logo-48.PNG",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/brakdag-logo-96.PNG",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/brakdag-logo.PNG",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#01592a",
+  "theme_color": "#01592a",
+  "orientation": "portrait"
+}

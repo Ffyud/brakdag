@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://brakdag.nl/</loc>
+    <image:image>
+       <image:loc>https://brakdag.nl/img/brakdag-logo.png</image:loc>
+    </image:image>
+</url>
+<url>
+  <loc>https://brakdag.nl/info.php</loc>
+</url>
+<url>
+  <loc>https://brakdag.nl/?t=bier</loc>
+</url>
+<url>
+  <loc>https://brakdag.nl/?t=gaswinning</loc>
+</url>
+<url>
+  <loc>https://brakdag.nl/?t=ringweg</loc>
+</url>
+</urlset>
